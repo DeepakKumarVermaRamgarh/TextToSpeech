@@ -46,4 +46,5 @@ This project was created by Deepak Kumar Verma.
 
 
 ## Screenshots
-
+![Alt text](image-1.png)
+![ScreenShot](image.png)
